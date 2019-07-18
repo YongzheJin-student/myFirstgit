@@ -26,3 +26,14 @@ Time|Content
 ------|------
 Week1|Javascript
 week2|Git and Github
+week3|NodeJS
+week4|Angular
+week5|HTTP request
+week6|Reactive programming
+week7|Work on Assignment 1
+week8|NoSQL Database
+week9|MongoDB
+week10|Unit and Integration Testing
+week11|End-to-End Testing
+week12|work on Assignment 2
+
