@@ -20,8 +20,9 @@ This Repositry is about to practice how to set up Github and link the repository
   
 * If the Anon Ping works, you can use the 'Ping Host' button to check whether your username/password is correct.
 Once you have established that everything is configured correctly, use the 'Check Soft Deleted Users' button. This will return a result which will show the first ten soft deleted users in the system, the last ten, and the total number of users to soft delete
-
-
+  
+  
+## 3813 ICT Course Content
 Time|Content
 ------|------
 Week1|Javascript
