@@ -23,4 +23,4 @@ Once you have established that everything is configured correctly, use the 'Chec
 
 
 Time|Content
-week1|Javascript
+------|------
