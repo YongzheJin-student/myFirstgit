@@ -24,3 +24,7 @@ Once you have established that everything is configured correctly, use the 'Chec
 
 Time|Content
 ------|------
+Week1|Javascript
+------|------
+week2|Git and Github
+------|------
