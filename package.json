@@ -1,0 +1,22 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "Helloworld",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Hello world\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/YongzheJin-student/myFirstgit.git"
+  },
+  "keywords": [
+    "AAAlaster43994399"
+  ],
+  "author": "Andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YongzheJin-student/myFirstgit/issues"
+  },
+  "homepage": "https://github.com/YongzheJin-student/myFirstgit#readme"
+}
